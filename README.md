@@ -1,12 +1,6 @@
 Bem Care 🦷
 Sistema de gestão para a ONG Turma do Bem, conectando dentistas voluntários a pacientes de baixa renda em todo o Brasil.
 
-👥 Equipe
-Nome
-Juliana Marques - RM: 566795
-Guilherme Barca - RM: 568517
-Lucas Kosio - RM: 566828
-
 📋 Sobre o projeto
 O Bem Care é uma aplicação web full-stack que digitaliza as operações da ONG Turma do Bem. O sistema permite cadastrar dentistas voluntários, gerenciar pacientes atendidos e controlar solicitações de agendamento de consultas odontológicas — tudo integrado em tempo real.
 
